@@ -39,4 +39,4 @@ models:
   first_analytics_db:
     # Applies to all files under models/example/
     example:
-      materialized: view
+      materialized: table
